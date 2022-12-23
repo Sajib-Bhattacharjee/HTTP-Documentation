@@ -1,5 +1,5 @@
 <p align="center">
- <img src="_images-http/http-logo-3.jpg" alt="HTTP (HyperText Transfer Protocol)" title="HTTP (HyperText Transfer Protocol)" width="600" height="200" />
+ <img src="_images-http/http-logo-3.jpg" alt="HTTP (HyperText Transfer Protocol)" title="HTTP (HyperText Transfer Protocol)" width="600" height="260" />
 </p>
 
 ## `Quick Introduction to HTTP`
