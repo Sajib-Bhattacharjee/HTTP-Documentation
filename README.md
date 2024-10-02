@@ -2,7 +2,7 @@
  <img src="_images-http/http-logo-3.jpg" alt="HTTP (HyperText Transfer Protocol)" title="HTTP (HyperText Transfer Protocol)" width="600" height="260" />
 </p>
 
-<div align="center"> 
+<div align="center">  
  
 # `Quick Introduction to HTTP` 
 
